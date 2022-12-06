@@ -24,7 +24,7 @@ Global.GelatekReanimateConfig = {
     ["DetailedCredits"] = true,
     
     -- [[ Flinging Methods ]] --
-    ["TorsoFling"] = true,
+    ["TorsoFling"] = false,
     ["BulletEnabled"] = false,
     ["BulletConfig"] = {
         ["RunAfterReanimate"] = false,
