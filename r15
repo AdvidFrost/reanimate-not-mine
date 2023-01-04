@@ -21,10 +21,10 @@ Global.GelatekReanimateConfig = {
         
     -- [[ Miscellacious ]] --
     ["LoadLibrary"] = false,
-    ["DetailedCredits"] = true,
+    ["DetailedCredits"] = false,
     
     -- [[ Flinging Methods ]] --
-    ["TorsoFling"] = true,
+    ["TorsoFling"] = false,
     ["BulletEnabled"] = false,
     ["BulletConfig"] = {
         ["RunAfterReanimate"] = false,
