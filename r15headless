@@ -21,7 +21,7 @@ Global.GelatekReanimateConfig = {
         
     -- [[ Miscellacious ]] --
     ["LoadLibrary"] = false,
-    ["DetailedCredits"] = true,
+    ["DetailedCredits"] = false,
     
     -- [[ Flinging Methods ]] --
     ["TorsoFling"] = false,
